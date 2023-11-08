@@ -1,10 +1,10 @@
 # Disney+ Clone with REACT JS
 
 <a href="https://disney-plus-clone-976a1.web.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/SashenJayathilaka/Disney-Plus-Clone.svg)
-![](https://img.shields.io/github/stars/SashenJayathilaka/Disney-Plus-Clone.svg)
-![](https://img.shields.io/github/issues/SashenJayathilaka/Disney-Plus-Clone)
+![])(https://img.shields.io/badge/Maintained-Yes-indigo) 
+![](https://img.shields.io/github/forks/Anmithun/Disney-Plus-Clone.svg)
+![](https://img.shields.io/github/stars/Anmithun/Disney-Plus-Clone.svg)
+![](https://img.shields.io/github.com/Anmithun/Disney-Plus-Clone/issues)
 ![](https://img.shields.io/github/last-commit/SashenJayathilaka/Disney-Plus-Clone)
 
 <!-- Screenshots -->
