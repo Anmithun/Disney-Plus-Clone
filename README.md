@@ -109,7 +109,7 @@ cd disney_plus_clone
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/Disney-Plus-Clone/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
+<a href="https://github.com/Anmithun/Disney-Plus-Clone/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
 
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -119,7 +119,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/Disney-Plus-Clone.git
+  git clone https://github.com/Anmithun/Disney-Plus-Clone.git
 ```
 
 Install dependencies
@@ -156,7 +156,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [:triangular_flag_on_post: Deployment](https://github.com/SashenJayathilaka/Disney-Plus-Clone/blob/master/README.md) for more information.
+See the section about [:triangular_flag_on_post: Deployment](https://github.com/Anmithun/Disney-Plus-Clone/edit/main/README.md) for more information.
 ```
 npm run eject
 ```
@@ -196,14 +196,14 @@ firebase deploy --only hosting
 
 ## :handshake: Contact
 
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Sashen - abinashnayak2030@gmail.com
 
-Project Link: [https://github.com/SashenJayathilaka/Disney-Plus-Clone.git](https://github.com/SashenJayathilaka/Disney-Plus-Clone.git)
+Project Link: [https://github.com/Anmithun/Disney-Plus-Clone.git](https://github.com/Anmithun/Disney-Plus-Clone.git)
 
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
- - [Assets](https://drive.google.com/drive/folders/1G2qOGccbTmV--MgYtex_mHZDx2-K4WV3?usp=sharing)
+ 
  - [NPM](https://www.npmjs.com)
  - [Ui](https://styled-components.com)
